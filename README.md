@@ -82,3 +82,12 @@ relative path, so run it from the repo root.
 
 ![Monthly corn futures price, 2004–2023](visuals/corn_price_trend.png)
 ![Model comparison — test R²](visuals/corn_model_compare.png)
+
+## More Results
+
+![Actual vs predicted monthly corn futures price, 2004–2023](visuals/corn_actual_vs_predicted.png)
+
+![Linear model feature coefficients](visuals/corn_feature_coefficients.png)
+
+![Average corn futures price by month](visuals/corn_seasonality.png)
+
