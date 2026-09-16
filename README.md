@@ -77,3 +77,8 @@ relative path, so run it from the repo root.
 - Monthly data only; daily/real-time data would sharpen predictions.
 - Gradient boosting underperformed for lack of hyperparameter tuning.
 - Macro factor set could be wider (interest rates, exchange rates, policy).
+
+## Visualizations
+
+![Monthly corn futures price, 2004–2023](visuals/corn_price_trend.png)
+![Model comparison — test R²](visuals/corn_model_compare.png)
